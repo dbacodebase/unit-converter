@@ -1,0 +1,57 @@
+#max-size {
+    max-width: 80%;
+    background-color: #6943FF;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Inter", serif;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    color: #FFFFFF;
+    padding-top: 30px;
+}
+
+#input-id {
+    color: #FFFFFF;
+    border-radius: 4px;
+    background: #6943FF;
+    width: 20%;
+    text-align: center;
+    border: 1px solid white;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 10px 0 25px 0;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 28px;
+    color: #3D3D3D;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.units {
+    background-color: #273549;
+    color: #CCC1FF;
+    width: 90%;
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+#length-id, #volume-id, #mass-id {
+    color: #FFFFFF;
+    font-size: 14px;
+}
